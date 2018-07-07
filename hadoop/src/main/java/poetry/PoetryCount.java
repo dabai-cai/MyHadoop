@@ -1,11 +1,7 @@
-package cn.hjr.poetry;
+package poetry;
 
-import cn.hjr.wordcount.WordCount;
-import cn.hjr.wordcount.WordMapper;
-import cn.hjr.wordcount.WordReduce;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;

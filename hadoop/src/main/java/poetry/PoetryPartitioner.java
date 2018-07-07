@@ -1,4 +1,4 @@
-package cn.hjr.poetry;
+package poetry;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.lib.partition.HashPartitioner;

@@ -1,4 +1,4 @@
-package cn.hjr.wordcount;
+package wordcount;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
@@ -28,8 +28,8 @@ public class WordCount {
 
 //            FileInputFormat.addInputPath(job,new Path("g:\\in.txt"));
 //            FileOutputFormat.setOutputPath(job, new Path("e:\\MyHadoop\\out\\wordcount"));
-            FileInputFormat.addInputPath(job,new Path(args[0]));
-            FileOutputFormat.setOutputPath(job, new Path(args[1]));
+            FileInputFormat.addInputPath(job,new Path("g:\\in.txt"));
+            FileOutputFormat.setOutputPath(job, new Path("e:\\MyHadoop\\out"));
             job.waitForCompletion(true);
         } catch (IOException e) {
             e.printStackTrace();

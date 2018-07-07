@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MyHadoop" />
+        <module name="hadoop" />
+        <module name="Scala" />
+        <module name="spark" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="MyScala" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

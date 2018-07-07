@@ -1,9 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b2ac14c-5a16-473e-99ce-cd385fce5813" name="Default" comment="" />
+    <list default="true" id="8b2ac14c-5a16-473e-99ce-cd385fce5813" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/Scala/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/Scala/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/Scala/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/Scala/src/main/scala/cn/hjr/MyRouteMain.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/ScalaOut/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/ScalaOut/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/ScalaOut/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/ScalaOut/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/hadoop/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/spark/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/spark/src/main/java/spark/SparkWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyHadoop/spark/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/logs/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHadoop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryPartitioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/spark/SparkWordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/wordcount/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/wordcount/WordMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/wordcount/WordReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/resources/Poetry01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/resources/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHadoop/src/main/resources/log4j.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/MyScala/target/" />
+    <ignored path="$PROJECT_DIR$/Scala/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop/target/" />
+    <ignored path="$PROJECT_DIR$/spark/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +75,68 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WordCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparkWordCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/spark/src/main/java/spark/SparkWordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyRouteMain.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/Scala/src/main/scala/cn/hjr/MyRouteMain.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="e#16#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/Scala/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/spark/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MyHadoop/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,13 +148,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>2.9.0</find>
+      <find>spark</find>
+      <find>scala</find>
     </findStrings>
     <replaceStrings>
       <replace>2.6.5</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MyHadoop" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,6 +181,22 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/hjr/test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cn/hjr/spark/SparkWordCount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testa.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MyScala/src/cn/hjr/wordcount.scala" />
+        <option value="$PROJECT_DIR$/MyScala/src/cn/hjr/wordcount.scala" />
+        <option value="$PROJECT_DIR$/MyScala/src/wordcount.scala" />
+        <option value="$PROJECT_DIR$/spark/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop/src/main/java/poetry/PoetryCount.java" />
+        <option value="$PROJECT_DIR$/spark/src/main/java/spark/SparkWordCount.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop/src/main/java/wordcount/WordCount.java" />
+        <option value="$PROJECT_DIR$/Scala/pom.xml" />
+        <option value="$PROJECT_DIR$/Scala/src/main/scala/cn/hjr/MyRouteMain.scala" />
+        <option value="$PROJECT_DIR$/../MyHadoop/spark/pom.xml" />
+        <option value="$PROJECT_DIR$/../MyHadoop/Scala/pom.xml" />
+        <option value="$PROJECT_DIR$/../MyHadoop/Scala/src/main/scala/cn/hjr/MyRouteMain.scala" />
       </list>
     </option>
   </component>
@@ -119,9 +244,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,51 +254,36 @@
             </path>
             <path>
               <item name="MyHadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hjr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHadoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="spark&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="SparkCon&#9;FILE&#9;jar://C:/Users/Administrator/.m2/repository/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/SparkConf.class&#10;spark&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyHadoop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="spark" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyHadoop\hadoop\src\main\resources" />
+      <recent name="E:\MyHadoop\spark\src\main\resources" />
+      <recent name="E:\MyHadoop\hadoop\src\main\java" />
       <recent name="E:\MyHadoop\src\main\resources" />
     </key>
   </component>
@@ -191,26 +299,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SparkWordCount">
-    <configuration name="PoeryCount" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="cn.hjr.poetry.PoetryCount" />
-      <module name="MyHadoop" />
-    </configuration>
-    <configuration name="SparkWordCount" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="cn.hjr.spark.SparkWordCount" />
-      <module name="MyHadoop" />
-      <option name="PROGRAM_PARAMETERS" value="/resources/" />
+  <component name="RunManager" selected="Application.MyRouteMain">
+    <configuration name="MyRouteMain" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.hjr.MyRouteMain" />
+      <module name="Scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.hjr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="cn.hjr.test" />
-      <module name="MyHadoop" />
-    </configuration>
-    <configuration name="worcount" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="cn.hjr.wordcount.WordCount" />
-      <module name="MyHadoop" />
+    <configuration name="spark.SparkWordCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="spark.SparkWordCount" />
+      <module name="spark" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -251,11 +356,14 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.worcount" />
-      <item itemvalue="Application.PoeryCount" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.SparkWordCount" />
+      <item itemvalue="Application.spark.SparkWordCount" />
+      <item itemvalue="Application.MyRouteMain" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyRouteMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -271,6 +379,9 @@
       <workItem from="1530586448192" duration="21130000" />
       <workItem from="1530679792459" duration="2714000" />
       <workItem from="1530791927795" duration="4195000" />
+      <workItem from="1530796434687" duration="7960000" />
+      <workItem from="1530866725236" duration="3154000" />
+      <workItem from="1530870585333" duration="8400000" />
     </task>
     <task id="LOCAL-00001" summary="hadoop demo">
       <created>1530684196077</created>
@@ -279,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530684196077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="加入spark demo">
+      <created>1530796484039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530796484039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29359000" />
+    <option name="totallyTimeSpent" value="48873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -295,29 +413,29 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.4019608" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.416122" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32861805" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33769062" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23134328" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45969498" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4019608" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,179 +446,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hadoop demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hadoop demo" />
+    <MESSAGE value="加入spark demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入spark demo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="130" column="40" lean-forward="true" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryPartitioner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/Poetry/part-r-00002">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar!/org/apache/hadoop/mapreduce/Job.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/part-r-00000" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="329" lean-forward="true" selection-start-line="329" selection-end-line="329" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/Poetry/Poetry02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryReduce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="9" selection-start-line="11" selection-start-column="29" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.5/hadoop-mapreduce-client-core-2.6.5.jar!/org/apache/hadoop/mapreduce/Mapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -515,48 +464,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/Poetry/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/Poetry/part-r-00003">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/Poetry/part-r-00001">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryPartitioner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/Poetry/part-r-00002">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/Poetry/Poetry03.txt">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/out/Poetry/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/out/Poetry/part-r-00003" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/out/Poetry/part-r-00001" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryPartitioner.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/out/Poetry/part-r-00002" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/input/Poetry/Poetry03.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/Poetry/Poetry01.txt">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/input/Poetry/Poetry01.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="210" />
@@ -570,63 +490,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/wordcount/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/data.txt">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/wordcount/WordCount.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryCount.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/input/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/poetry/PoetryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/poetry/PoetryMapper.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/resources/data.txt" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/resources/log4j.properties" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.1/spark-core_2.11-2.3.1.jar!/org/apache/spark/package.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -653,32 +528,233 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/SparkConf.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/resources/Poetry01.txt" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/spark/SparkWordCount.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/MyScala/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/test/java/testa.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/MyScala/src/cn/hjr/wordcount.scala" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/src/main/java/cn/hjr/test.java" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/Scala/src/main/scala/cn/hjr/MyRouteBuilder.scala" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/MyScala/src/wordcount.scala" />
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="140" column="10" selection-start-line="140" selection-end-line="141" />
+          <caret line="115" column="45" selection-start-line="115" selection-start-column="45" selection-end-line="115" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Poetry01.txt">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryMapper.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/hjr/spark/SparkWordCount.java">
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryReduce.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/poetry/PoetryCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="180">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordReduce.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/logs/error.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-1342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/logs/info.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-4590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/spark/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/out/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/hadoop/src/main/java/wordcount/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/SparkConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.1/spark-core_2.11-2.1.1.jar!/org/apache/spark/SparkConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/ScalaOut/part-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/Scala/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/spark/src/main/java/spark/SparkWordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/scala/Array.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="502" column="14" lean-forward="true" selection-start-line="502" selection-start-column="14" selection-end-line="502" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MyHadoop/Scala/src/main/scala/cn/hjr/MyRouteMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
