@@ -11,6 +11,7 @@
         <module>Scala</module>
         <module>hadoop</module>
         <module>spark</module>
+        <module>strom</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

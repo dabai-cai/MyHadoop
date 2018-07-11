@@ -9,6 +9,7 @@
         <module name="hadoop" />
         <module name="Scala" />
         <module name="spark" />
+        <module name="strom" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
