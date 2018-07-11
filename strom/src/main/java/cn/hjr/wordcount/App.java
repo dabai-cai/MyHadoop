@@ -1,4 +1,4 @@
-package cn.hjr;
+package cn.hjr.wordcount;
 import org.apache.storm.Config;
 import org.apache.storm.LocalCluster;
 import org.apache.storm.topology.TopologyBuilder;

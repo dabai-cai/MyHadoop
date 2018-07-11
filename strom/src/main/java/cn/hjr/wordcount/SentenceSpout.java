@@ -1,4 +1,4 @@
-package cn.hjr;
+package cn.hjr.wordcount;
 
 import org.apache.storm.spout.SpoutOutputCollector;
 import org.apache.storm.task.TopologyContext;

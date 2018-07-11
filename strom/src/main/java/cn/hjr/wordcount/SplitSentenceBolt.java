@@ -1,4 +1,4 @@
-package cn.hjr;
+package cn.hjr.wordcount;
 import org.apache.storm.task.OutputCollector;
 import org.apache.storm.task.TopologyContext;
 import org.apache.storm.topology.OutputFieldsDeclarer;
